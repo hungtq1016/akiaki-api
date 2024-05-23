@@ -1,0 +1,12 @@
+global using Infrastructure.Extensions;
+global using Infrastructure.Data;
+global using Core.DTOs;
+global using Core.Models;
+global using Infrastructure.DTOs;
+global using Core;
+global using Core.Enums;
+global using Infrastructure.Controllers;
+global using Infrastructure.Services;
+global using Microsoft.AspNetCore.Mvc;
+global using AkiAki;
+global using Microsoft.EntityFrameworkCore;
